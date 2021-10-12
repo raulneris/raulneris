@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**raulneris/raulneris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Raul Neris
+Analista de Infraestrutura de TI na Assembleia Legislativa do Estado de Mato Grosso  
+  
+### Sobre
+Técnico em Telecomunicações, Tecnologia em Redes de Computadores e Pós-graduação em Segurança da informação.  
+  
+### Atividades atuais:  
+- Administração ferramenta de backup;  
+- Administração serviço de e-mail;  
+- Administração serviço de AntiSpam;  
+- Administração ambiente de virtualização;  
+- Administração ferramenta de inventário de rede;  
+- Administração NAS (file share);  
+- Administração servidores Windows;  
+- Administração servidores Linux.  
+  
+### Projetos:
+- Migração ferramenta de backup Veritas NetBackup para Veeam Backup & Replication;  
+- Implantação ferramenta TOPdesk;  
+- Implantação ferramenta GLPI;  
+- Implantação ferramenta FusionInventory.  
