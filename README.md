@@ -1,5 +1,4 @@
 ### Raul Neris  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-neris-07462711b/)  
 Analista de Infraestrutura de TI na Assembleia Legislativa do Estado de Mato Grosso  
   
 ### Sobre
@@ -20,3 +19,5 @@ Técnico em Telecomunicações, Tecnologia em Redes de Computadores e Pós-gradu
 - Implantação ferramenta TOPdesk;  
 - Implantação ferramenta GLPI;  
 - Implantação ferramenta FusionInventory.  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-neris-07462711b/)  
