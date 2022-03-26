@@ -1,5 +1,5 @@
 ### Raul Neris  
-Analista de Infraestrutura de TI na Assembleia Legislativa do Estado de Mato Grosso  
+Analista de Infraestrutura de TI.  
   
 ### Sobre
 Técnico em Telecomunicações, Tecnologia em Redes de Computadores e Pós-graduação em Segurança da informação.  
